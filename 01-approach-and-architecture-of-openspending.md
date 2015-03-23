@@ -81,7 +81,7 @@ Key aspects of the proposed approach:
   * Presentation (and use and analysis) is distributed
 
 * Use a (micro-)services oriented architecture in which different pieces
-  of functionality are implmented in separate small service components (or
+  of functionality are implemented in separate small service components (or
   libraries) which are then connected together. This will make it easier to
   contribute, easier to improve and provide a simpler and more robust
   deployment and hosting architecture.
